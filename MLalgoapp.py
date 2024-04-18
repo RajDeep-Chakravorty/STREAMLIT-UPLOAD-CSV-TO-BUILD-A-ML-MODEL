@@ -168,7 +168,7 @@ def build_classification_model(df, algorithm, hyperparameters):
 
 # Disclaimer
 st.markdown(
-    '<p style="color: green; font-family: monospace;">Disclaimer: This app works best when viewed in dark mode. Click three dots in the top right corner -> Settings -> Choose app theme dark.</p>',
+    '<p style="color: green; font-family: monospace;">Disclaimer: This app works best when viewed in dark mode.<br> Click three dots in the top right corner -> Settings -> Choose app theme dark.</p>',
     unsafe_allow_html=True
 )
 
