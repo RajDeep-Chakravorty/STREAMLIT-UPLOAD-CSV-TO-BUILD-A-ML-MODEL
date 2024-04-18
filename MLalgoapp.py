@@ -30,7 +30,7 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url("https://getwallpapers.com/wallpaper/full/5/f/d/911268-most-popular-dark-sunset-wallpaper-2560x1540.jpg");
+             background: url("https://media.gettyimages.com/id/1398197328/vector/human-brain-circuit-grid.jpg?s=1024x1024&w=gi&k=20&c=ca1A18kEs4SCc5PhbstBZbYor0V_7mAk07qu_g-4OBM=");
              background-size: cover
          }}
          </style>
