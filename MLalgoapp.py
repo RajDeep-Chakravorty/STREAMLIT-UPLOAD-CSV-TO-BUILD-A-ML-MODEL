@@ -17,6 +17,9 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# Sidebar logo
+st.sidebar.image("https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-shape-it1PkH7I97z.jpg", use_column_width=True)
+
 #function to load a bg image
 def set_bg_hack_url():
     '''
