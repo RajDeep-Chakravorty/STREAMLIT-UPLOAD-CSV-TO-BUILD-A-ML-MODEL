@@ -18,7 +18,7 @@ To run this application locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/RajDeep-Chakravorty/STREAMLIT-UPLOAD-CSV-TO-BUILD-A-ML-MODEL)>
    ```
 
 2. Navigate to the project directory:
