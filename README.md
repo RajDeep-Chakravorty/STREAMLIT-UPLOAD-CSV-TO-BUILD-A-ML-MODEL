@@ -2,6 +2,9 @@
 
 This is a Streamlit web application for machine learning tasks. It allows users to select problem types (regression or classification), datasets, machine learning algorithms, and hyperparameters to build and evaluate models.
 
+## Preview
+This Project has been deployed at https://app-upload-csv-to-build-a-ml-model.streamlit.app/
+
 ## Features
 
 - Supports regression and classification tasks.
@@ -21,19 +24,13 @@ To run this application locally, follow these steps:
    git clone <https://github.com/RajDeep-Chakravorty/STREAMLIT-UPLOAD-CSV-TO-BUILD-A-ML-MODEL>
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd machine-learning-app
-   ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the Streamlit app:
+3. Run the Streamlit app:
 
    ```bash
    streamlit run app.py
