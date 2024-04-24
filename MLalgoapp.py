@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Sidebar logo
-st.sidebar.image("https://www.brandcrowd.com/maker/social/hvxn886zu4", use_column_width=True)
+st.sidebar.image("https://imgur.com/kpkwAUT", use_column_width=True)
 
 #function to load a bg image
 def set_bg_hack_url():
