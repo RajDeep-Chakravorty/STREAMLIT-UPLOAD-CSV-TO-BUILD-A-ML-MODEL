@@ -5,7 +5,7 @@ This is a Streamlit web application for machine learning tasks. It allows users 
 ## Preview
 This Project has been deployed at https://app-upload-csv-to-build-a-ml-model.streamlit.app/
 
-<a href="https://ibb.co/Yytc93G"><img src="https://i.ibb.co/Yytc93G/Streamlit-MLalgoapp-demo.gif" alt="Streamlit-MLalgoapp-demo" border="0" width="800" height="600"></a>
+<a href="https://ibb.co/Yytc93G"><img src="https://i.ibb.co/Yytc93G/Streamlit-MLalgoapp-demo.gif" alt="Streamlit-MLalgoapp-demo" border="0"></a>
 
 ## Features
 
