@@ -5,6 +5,8 @@ This is a Streamlit web application for machine learning tasks. It allows users 
 ## Preview
 This Project has been deployed at https://app-upload-csv-to-build-a-ml-model.streamlit.app/
 
+(https://i.imgur.com/DjKJH5G.mp4)
+
 ## Features
 
 - Supports regression and classification tasks.
